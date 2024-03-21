@@ -22,7 +22,8 @@ def get_location(keywords):
     longitude_position2=string_location.find("&")
     logitude=string_location[latitude_position2+3:longitude_position2:]   #latitude的終點+3設為longitude的起點
     return latitude,logitude
-target="  台北小巨蛋"
-a,b=get_location(target)
+#test
+#target="  台北小巨蛋"
+#a,b=get_location(target)
 
-print(a,b)
+#print(a,b)
