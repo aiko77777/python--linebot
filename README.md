@@ -1,0 +1,9 @@
+![image](https://github.com/aiko77777/python--linebot/assets/139691979/ceaef921-2a91-4a95-9fb4-92e7cdd7f074)
+![image](https://github.com/aiko77777/python--linebot/assets/139691979/9ad50d4b-fd8f-4d3f-bc08-1d61560a70a6)
+![image](https://github.com/aiko77777/python--linebot/assets/139691979/bdad75c6-c37a-4cbf-9bad-64b65efc7c3a)
+![image](https://github.com/aiko77777/python--linebot/assets/139691979/a1e722bd-15a2-4dc1-9178-8d00ab1a69b6)
+![image](https://github.com/aiko77777/python--linebot/assets/139691979/6d39063f-61b3-497d-8737-f630729707bc)
+![image](https://github.com/aiko77777/python--linebot/assets/139691979/6afd6e0c-c4cf-45a7-937b-4f2e20219ccf)
+![image](https://github.com/aiko77777/python--linebot/assets/139691979/e395a089-3556-4c33-bcd9-79f25f5b7296)
+成果展示:
+https://youtu.be/Ggtww7MhLSM?si=j3wpj6uXzHtxuvJK
